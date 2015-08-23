@@ -26,3 +26,6 @@ Understand the skill levels and interests of your teammates from the beginning. 
 
 ## Frontload your work:
 Keep in mind that as the semster progresses, your other classes will only become more demanding (except 381, that becomes easier)! Use this free time at the beginning of the semester to get a head start. If you can finish 3/4 of the work in the first half of the semester I am more than happy to let you slack a bit for the second half of the semester. It is important that the work gets done; Don't worry about checking in 'x' lines of code per week.
+
+## Take this class for multiple semesters!
+Depending on the amount of time you have to commit to the class there is a good chance that you may not fully understand what you are doing until the end of the class. I can guaruntee you that regardless of your level of mastery, you will be twice as productive the second semester and get more out of it. In one semester you can get something working, but in two you can truly create a masterpiece, and master the technologies you are working with.
