@@ -6,6 +6,8 @@ You will succeed by working hard, communicating, asking questions, exploring, an
 ## Work Hard:
 Most of your productive work will be done outside of this class. That means that you have to be able to organize team meetings, team work sessions, and work on your own! As you get into it, you will really enjoy it and learn a ton! I promise! But first you have to get past the annoying hard-work-hump and get to the fun stuff! The more work you put in at the beginning the sooner you will feel comfortable with the technologies, and the sooner you will start having fun.
 
+You may not know it now, but this is class that will get you your internships, your return offers, and your signing bonuses. The things you learn in other classes are the bare minimum of what it takes to get an interview. The things you learn in this class are things that will make you stand out from the other interns and new hires and make you a worthwhile hire for your company.
+
 ## Symmetry:
 Tough you should work hard, it is important to that you don't get too far ahead of your teammates. The further ahead you get, and the more code you add, the harder it will be for your teammates to catch up. The further behind they get, the more they will lose motivation to even try and catch up. If your teammates are getting behind because they are lazy that is one thing, but if you are choosing to put in 60 hours a week on your project, and are wondering why your teammates have no idea what is going on, I will not be too sympathetic. Work hard and encourage your teammates to work hard. If you forsee a significant difference in effort talk to me and try to divide your project up into independent parts.
 
